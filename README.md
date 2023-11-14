@@ -11,3 +11,5 @@
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/ead03255-5afc-466a-b7da-e6799cb7f5a3)
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/b2d62c42-7cfb-4458-9316-113725fdd3b9)
+
+[diploma-ciberseguridad-empresas.pdf](https://github.com/EmilioVidal/Certifications/files/13344067/diploma-ciberseguridad-empresas.pdf)
