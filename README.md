@@ -17,3 +17,5 @@
 ![download](https://github.com/EmilioVidal/Certifications/assets/149820545/4a47d760-ddee-4b52-93f9-59aa3df12b92)
 
 ![download](https://github.com/EmilioVidal/Certifications/assets/149820545/80462c98-6740-42d7-b4cf-f148a1000ea6)
+
+![image](https://github.com/EmilioVidal/Certifications/assets/149820545/a57d6d01-742b-4c7d-b9e1-9bddde20a3dd)
