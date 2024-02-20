@@ -13,3 +13,5 @@
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/b2d62c42-7cfb-4458-9316-113725fdd3b9)
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/2b15a10d-a962-49f2-a7ae-4af9517ec28c)
+
+[diploma-frontend-developer-practico.pdf](https://github.com/EmilioVidal/Certifications/files/14349879/diploma-frontend-developer-practico.pdf)
