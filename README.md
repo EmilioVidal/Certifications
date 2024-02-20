@@ -15,3 +15,5 @@
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/2b15a10d-a962-49f2-a7ae-4af9517ec28c)
 
 ![download](https://github.com/EmilioVidal/Certifications/assets/149820545/4a47d760-ddee-4b52-93f9-59aa3df12b92)
+
+[diploma-ingenieria-social.pdf](https://github.com/EmilioVidal/Certifications/files/14349908/diploma-ingenieria-social.pdf)
