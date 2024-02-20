@@ -17,7 +17,7 @@
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/d56abebf-994e-4e8f-bdbd-0377f77acd6f)
 
-### Otros Cursos
+### More Courses
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/ead03255-5afc-466a-b7da-e6799cb7f5a3)
 
