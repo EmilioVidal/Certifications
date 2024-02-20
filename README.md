@@ -14,8 +14,10 @@
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/2b15a10d-a962-49f2-a7ae-4af9517ec28c)
 
-![download](https://github.com/EmilioVidal/Certifications/assets/149820545/4a47d760-ddee-4b52-93f9-59aa3df12b92)
-
-![download](https://github.com/EmilioVidal/Certifications/assets/149820545/80462c98-6740-42d7-b4cf-f148a1000ea6)
+![image](https://github.com/EmilioVidal/Certifications/assets/149820545/bf882529-7a52-45e4-a9c4-293c53ca6d9b)
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/a57d6d01-742b-4c7d-b9e1-9bddde20a3dd)
+
+![image](https://github.com/EmilioVidal/Certifications/assets/149820545/b471ed7a-f938-4866-819b-a25bf2543d35)
+
+![image](https://github.com/EmilioVidal/Certifications/assets/149820545/379fcbf8-7900-46a1-a825-fa2fbf4b2485)
