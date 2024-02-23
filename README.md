@@ -17,9 +17,10 @@
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/d56abebf-994e-4e8f-bdbd-0377f77acd6f)
 
-### More Courses
+## Cloud Computing
+![image](https://github.com/EmilioVidal/Certifications/assets/149820545/3cedf78c-d57a-453b-94bf-64ab26826a42)
 
-[LATAM-GCCF2022--Emilio Vidal Cavazos Páez.pdf](https://github.com/EmilioVidal/Certifications/files/14389865/LATAM-GCCF2022--Emilio.Vidal.Cavazos.Paez.pdf)
+### More Courses
 
 ![image](https://github.com/EmilioVidal/Certifications/assets/149820545/ead03255-5afc-466a-b7da-e6799cb7f5a3)
 
